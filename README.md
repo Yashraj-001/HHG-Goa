@@ -3,7 +3,7 @@
 
 A powerful Node.js command-line interface for interacting with the [Diamante Blockchain](https://diamcircle.io) using the official `diamante-sdk-js`.
 
-> 🏆 **Project built for selection in HHG (Hack House Global)**
+> 🏆 **Project built for selection in HHG (Hack House Goa)**
 
 ---
 
@@ -92,7 +92,7 @@ diamante-sdk-cli/
 
 ## 🎯 Motivation
 
-This project was created as part of my submission for **HHG (Hack House Global)** to demonstrate practical experience in:
+This project was created as part of my submission for **HHG (Hack House Goa)** to demonstrate practical experience in:
 
 - Blockchain SDK integration
 - Wallet/account management
@@ -110,16 +110,6 @@ This project was created as part of my submission for **HHG (Hack House Global)*
 > Trustline Set Successfully!
 > Payment Successful!
 ```
-
----
-
-## 📬 Contact
-
-Feel free to reach out if you have questions or want to collaborate:
-
-- ✉️ Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
