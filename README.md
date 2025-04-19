@@ -30,7 +30,7 @@ A powerful Node.js command-line interface for interacting with the [Diamante Blo
 ### 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/diamante-sdk-cli.git
+git clone https://github.com/Yashraj-001/HHG-Goa.git
 cd diamante-sdk-cli
 npm install
 ```
